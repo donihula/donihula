@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @donihula
 - 👀 I’m interested in blockchain 
-- 🌱 I’m currently learning about linea tesynet
+- 🌱 I’m currently learning about linea testnet
 - 💞️ I’m looking to collaborate on linea
 - 📫 How to reach me : follow my Twitter @Donihula2 
 
